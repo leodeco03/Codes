@@ -7,6 +7,7 @@ Main topics:
 - VAR models for financial shocks
 - Macroeconomic time series analysis
 - Data construction from FRED, LSEG and financial databases
+- Small Open Economy in New Keynesian Framework 
 
 Languages:
 - Python
