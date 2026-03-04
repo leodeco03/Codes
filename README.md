@@ -1,2 +1,17 @@
-# Codes
-Here you can find some of the codes I wrote for classes and researches. 
+# Research Codes
+
+This repository contains quantitative codes written during my research and coursework in macroeconomics and macroeconometrics.
+
+Main topics:
+- Sovereign spreads and debt dynamics
+- VAR models for financial shocks
+- Macroeconomic time series analysis
+- Data construction from FRED, LSEG and financial databases
+
+Languages:
+- Python
+- Matlab
+- Dynare
+
+Author: Leonardo Decorte  
+MSc Applied Economics and Markets – University of Bologna
