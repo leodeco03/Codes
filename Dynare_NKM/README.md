@@ -12,6 +12,7 @@ This project implements a workhorse SOE-NK model following Galí & Monacelli (20
    - Pure floating (φₑ = 0)
    - Managed floating (φₑ = 0.80)
    - Fixed exchange rate (eᶜ = 0)
+4. **Q4:** Combined Shocks under a Fixed Exchange Rate (ec = 0)
 
 ## 🏗️ Model Features
 
