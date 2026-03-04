@@ -4,7 +4,7 @@ This folder contains the Python and Matlab scripts used to construct the dataset
 
 The Python scripts are used to download, clean and transform financial time series data used for econometric analysis.
 
-The Matlab scripts are used to estimate
+The Matlab scripts estimate a VAR model to analyze the identification and transmission of financial shocks within a macro-financial framework.
 
 Languages: Python, Matlab  
 Data sources: FRED, LSEG
