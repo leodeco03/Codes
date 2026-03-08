@@ -72,7 +72,7 @@ warnings.filterwarnings("ignore")
 START_DATE = "1990-01-02"
 END_DATE   = "2025-01-01"
 
-FRED_API_KEY = os.getenv("FRED_API_KEY", "fd44963c4c6cc9df732bb14fdfde790b")
+FRED_API_KEY = os.getenv("FRED_API_KEY", "FRED_API_KEY")
 fred = Fred(api_key=FRED_API_KEY)
 
 LSEG_FILE = "LSEGdata1.xlsx"
